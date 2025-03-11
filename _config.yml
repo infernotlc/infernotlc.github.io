@@ -6,7 +6,7 @@ description: >-
   Built with the Minimal Mistakes theme and powered by GitHub Pages.
 twitter_username: "your_twitter_username"  # Add if you have one
 github_username: "infernotlc"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
