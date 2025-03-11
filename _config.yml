@@ -1,6 +1,6 @@
 # Site settings
-title: "infernotlc"
-email: "your-email@example.com"  # Add your email if you want
+title: "Pony Indie Studio"
+email: "talha5797@gmail.com"  # Add your email if you want
 description: >-
   Welcome to InfernoTLC — a place to share your thoughts, projects, and more!
   Built with the Minimal Mistakes theme and powered by GitHub Pages.
@@ -60,7 +60,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
